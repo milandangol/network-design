@@ -1,1 +1,1 @@
-# network-design
+This report depicts the network architecture of "Network Hats Pvt. Ltd." This style is comprised of three layers: core, distribution, and access. The physical and logical layouts are created in Visio and Cisco Packet Tracer, respectively. VLAN allocation, IP addressing, routing protocol, GRE tunneling, and remote access VPN are all operational. Public and private IP addresses are connected using NAT.
